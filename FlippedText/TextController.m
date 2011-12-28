@@ -8,9 +8,19 @@
 
 #import "TextController.h"
 #import "FlippedTextModel.h"
+#import "NSString+Flipped.h"
 
 @implementation TextController
 @synthesize input,output;
+
+-(IBAction)hideKeyboard:(id)sender {
+    [input resignFirstResponder];
+}
+
+-(IBAction)copyInput:(id)sender {
+    UIPasteboard *paste = [UIPasteboard generalPasteboard];
+    paste.string = output.text;
+}
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -23,7 +33,7 @@
 
 - (void)textViewDidChange:(UITextView *)textView {
     
-    output.text = [[FlippedTextModel instance] flippedString:input.text];
+    output.text = [input.text flipText];
 }
 
 - (void)didReceiveMemoryWarning

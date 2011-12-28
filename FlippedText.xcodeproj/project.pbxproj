@@ -18,6 +18,7 @@
 		5F60F74E14AA469600A14FFA /* flipMap.xml in Resources */ = {isa = PBXBuildFile; fileRef = 5F60F74D14AA469600A14FFA /* flipMap.xml */; };
 		5F60F76D14AA750600A14FFA /* TextController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F60F76B14AA750600A14FFA /* TextController.m */; };
 		5F60F76E14AA750600A14FFA /* TextController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F60F76C14AA750600A14FFA /* TextController.xib */; };
+		5F60F77914AAF39500A14FFA /* NSString+Flipped.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F60F77814AAF39500A14FFA /* NSString+Flipped.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,8 @@
 		5F60F76A14AA750600A14FFA /* TextController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextController.h; sourceTree = "<group>"; };
 		5F60F76B14AA750600A14FFA /* TextController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextController.m; sourceTree = "<group>"; };
 		5F60F76C14AA750600A14FFA /* TextController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TextController.xib; sourceTree = "<group>"; };
+		5F60F77714AAF39500A14FFA /* NSString+Flipped.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Flipped.h"; sourceTree = "<group>"; };
+		5F60F77814AAF39500A14FFA /* NSString+Flipped.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Flipped.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +97,8 @@
 				5F60F76A14AA750600A14FFA /* TextController.h */,
 				5F60F76B14AA750600A14FFA /* TextController.m */,
 				5F60F76C14AA750600A14FFA /* TextController.xib */,
+				5F60F77714AAF39500A14FFA /* NSString+Flipped.h */,
+				5F60F77814AAF39500A14FFA /* NSString+Flipped.m */,
 				5F60F73614AA3B3100A14FFA /* Supporting Files */,
 			);
 			path = FlippedText;
@@ -187,6 +192,7 @@
 				5F60F74814AA3E0600A14FFA /* FlippedTextModel.m in Sources */,
 				5F60F74B14AA45FE00A14FFA /* GDataXMLNode.m in Sources */,
 				5F60F76D14AA750600A14FFA /* TextController.m in Sources */,
+				5F60F77914AAF39500A14FFA /* NSString+Flipped.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,6 +300,7 @@
 				5F60F74514AA3B3100A14FFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

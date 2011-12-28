@@ -12,4 +12,8 @@
 
 @property (nonatomic,retain) IBOutlet UITextView *input;
 @property (nonatomic,retain) IBOutlet UITextView *output;
+
+-(IBAction)hideKeyboard:(id)sender;
+-(IBAction)copyInput:(id)sender;
+
 @end

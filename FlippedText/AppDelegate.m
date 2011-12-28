@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "NSString+Flipped.h"
 
 @implementation AppDelegate
 
@@ -32,8 +33,8 @@
     
     NSString *g = [NSString stringWithString:@"1 2 3 4 5 6 7 8 9 0 A C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z ! ' { ( ) } [ ] . : ; < > ? _"];
     
-    NSString *flip = [[[FlippedTextModel instance] flippedString:g] retain];
-    NSLog(@"%@",flip);
+    //NSString *flip = [[[FlippedTextModel instance] flippedString:g] retain];
+    NSLog(@"%@",[g flipText]);
     return YES;
 }
 
