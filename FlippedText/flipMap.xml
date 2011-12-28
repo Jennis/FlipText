@@ -1,0 +1,278 @@
+<table class="grid">
+	<tr>
+		<th>From</th>
+		<th>To</th>
+	</tr>
+	<tr>
+
+		<td>&#x0021; - <a href="/info/unicode/char/0021/index.htm">EXCLAMATION MARK (U+0021)</a></td>
+		<td>&#x00a1; - <a href="/info/unicode/char/00a1/index.htm">INVERTED EXCLAMATION MARK (U+00A1)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0022; - <a href="/info/unicode/char/0022/index.htm">QUOTATION MARK (U+0022)</a></td>
+
+		<td>&#x201e; - <a href="/info/unicode/char/201e/index.htm">DOUBLE LOW-9 QUOTATION MARK (U+201E)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0026; - <a href="/info/unicode/char/0026/index.htm">AMPERSAND (U+0026)</a></td>
+		<td>&#x214b; - <a href="/info/unicode/char/214b/index.htm">TURNED AMPERSAND (U+214B)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x0027; - <a href="/info/unicode/char/0027/index.htm">APOSTROPHE (U+0027)</a></td>
+		<td>&#x002c; - <a href="/info/unicode/char/002c/index.htm">COMMA (U+002C)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x0028; - <a href="/info/unicode/char/0028/index.htm">LEFT PARENTHESIS (U+0028)</a></td>
+		<td>&#x0029; - <a href="/info/unicode/char/0029/index.htm">RIGHT PARENTHESIS (U+0029)</a></td>
+	</tr>
+	<tr>
+		<td>&#x002e; - <a href="/info/unicode/char/002e/index.htm">FULL STOP (U+002E)</a></td>
+
+		<td>&#x02d9; - <a href="/info/unicode/char/02d9/index.htm">DOT ABOVE (U+02D9)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0033; - <a href="/info/unicode/char/0033/index.htm">DIGIT THREE (U+0033)</a></td>
+		<td>&#x0190; - <a href="/info/unicode/char/0190/index.htm">LATIN CAPITAL LETTER OPEN E (U+0190)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x0034; - <a href="/info/unicode/char/0034/index.htm">DIGIT FOUR (U+0034)</a></td>
+		<td>&#x152d; - <a href="/info/unicode/char/152d/index.htm">CANADIAN SYLLABICS YA (U+152D)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x0036; - <a href="/info/unicode/char/0036/index.htm">DIGIT SIX (U+0036)</a></td>
+		<td>&#x0039; - <a href="/info/unicode/char/0039/index.htm">DIGIT NINE (U+0039)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0037; - <a href="/info/unicode/char/0037/index.htm">DIGIT SEVEN (U+0037)</a></td>
+
+		<td>&#x2c62; - <a href="/info/unicode/char/2c62/index.htm">LATIN CAPITAL LETTER L WITH MIDDLE TILDE (U+2C62)</a></td>
+	</tr>
+	<tr>
+		<td>&#x003b; - <a href="/info/unicode/char/003b/index.htm">SEMICOLON (U+003B)</a></td>
+		<td>&#x061b; - <a href="/info/unicode/char/061b/index.htm">ARABIC SEMICOLON (U+061B)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x003c; - <a href="/info/unicode/char/003c/index.htm">LESS-THAN SIGN (U+003C)</a></td>
+		<td>&#x003e; - <a href="/info/unicode/char/003e/index.htm">GREATER-THAN SIGN (U+003E)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x003f; - <a href="/info/unicode/char/003f/index.htm">QUESTION MARK (U+003F)</a></td>
+		<td>&#x00bf; - <a href="/info/unicode/char/00bf/index.htm">INVERTED QUESTION MARK (U+00BF)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0041; - <a href="/info/unicode/char/0041/index.htm">LATIN CAPITAL LETTER A (U+0041)</a></td>
+
+		<td>&#x2200; - <a href="/info/unicode/char/2200/index.htm">FOR ALL (U+2200)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0042; - <a href="/info/unicode/char/0042/index.htm">LATIN CAPITAL LETTER B (U+0042)</a></td>
+		<td>&#x10412; - <a href="/info/unicode/char/10412/index.htm">DESERET CAPITAL LETTER BEE (U+10412)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x0043; - <a href="/info/unicode/char/0043/index.htm">LATIN CAPITAL LETTER C (U+0043)</a></td>
+		<td>&#x2183; - <a href="/info/unicode/char/2183/index.htm">ROMAN NUMERAL REVERSED ONE HUNDRED (U+2183)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x0044; - <a href="/info/unicode/char/0044/index.htm">LATIN CAPITAL LETTER D (U+0044)</a></td>
+		<td>&#x25d6; - <a href="/info/unicode/char/25d6/index.htm">LEFT HALF BLACK CIRCLE (U+25D6)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0045; - <a href="/info/unicode/char/0045/index.htm">LATIN CAPITAL LETTER E (U+0045)</a></td>
+
+		<td>&#x018e; - <a href="/info/unicode/char/018e/index.htm">LATIN CAPITAL LETTER REVERSED E (U+018E)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0046; - <a href="/info/unicode/char/0046/index.htm">LATIN CAPITAL LETTER F (U+0046)</a></td>
+		<td>&#x2132; - <a href="/info/unicode/char/2132/index.htm">TURNED CAPITAL F (U+2132)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x0047; - <a href="/info/unicode/char/0047/index.htm">LATIN CAPITAL LETTER G (U+0047)</a></td>
+		<td>&#x2141; - <a href="/info/unicode/char/2141/index.htm">TURNED SANS-SERIF CAPITAL G (U+2141)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x004a; - <a href="/info/unicode/char/004a/index.htm">LATIN CAPITAL LETTER J (U+004A)</a></td>
+		<td>&#x017f; - <a href="/info/unicode/char/017f/index.htm">LATIN SMALL LETTER LONG S (U+017F)</a></td>
+	</tr>
+	<tr>
+		<td>&#x004b; - <a href="/info/unicode/char/004b/index.htm">LATIN CAPITAL LETTER K (U+004B)</a></td>
+
+		<td>&#x22ca; - <a href="/info/unicode/char/22ca/index.htm">RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT (U+22CA)</a></td>
+	</tr>
+	<tr>
+		<td>&#x004c; - <a href="/info/unicode/char/004c/index.htm">LATIN CAPITAL LETTER L (U+004C)</a></td>
+		<td>&#x2142; - <a href="/info/unicode/char/2142/index.htm">TURNED SANS-SERIF CAPITAL L (U+2142)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x004d; - <a href="/info/unicode/char/004d/index.htm">LATIN CAPITAL LETTER M (U+004D)</a></td>
+		<td>&#x0057; - <a href="/info/unicode/char/0057/index.htm">LATIN CAPITAL LETTER W (U+0057)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x004e; - <a href="/info/unicode/char/004e/index.htm">LATIN CAPITAL LETTER N (U+004E)</a></td>
+		<td>&#x1d0e; - <a href="/info/unicode/char/1d0e/index.htm">LATIN LETTER SMALL CAPITAL REVERSED N (U+1D0E)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0050; - <a href="/info/unicode/char/0050/index.htm">LATIN CAPITAL LETTER P (U+0050)</a></td>
+
+		<td>&#x0500; - <a href="/info/unicode/char/0500/index.htm">CYRILLIC CAPITAL LETTER KOMI DE (U+0500)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0051; - <a href="/info/unicode/char/0051/index.htm">LATIN CAPITAL LETTER Q (U+0051)</a></td>
+		<td>&#x038c; - <a href="/info/unicode/char/038c/index.htm">GREEK CAPITAL LETTER OMICRON WITH TONOS (U+038C)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x0052; - <a href="/info/unicode/char/0052/index.htm">LATIN CAPITAL LETTER R (U+0052)</a></td>
+		<td>&#x1d1a; - <a href="/info/unicode/char/1d1a/index.htm">LATIN LETTER SMALL CAPITAL TURNED R (U+1D1A)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x0054; - <a href="/info/unicode/char/0054/index.htm">LATIN CAPITAL LETTER T (U+0054)</a></td>
+		<td>&#x22a5; - <a href="/info/unicode/char/22a5/index.htm">UP TACK (U+22A5)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0055; - <a href="/info/unicode/char/0055/index.htm">LATIN CAPITAL LETTER U (U+0055)</a></td>
+
+		<td>&#x2229; - <a href="/info/unicode/char/2229/index.htm">INTERSECTION (U+2229)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0056; - <a href="/info/unicode/char/0056/index.htm">LATIN CAPITAL LETTER V (U+0056)</a></td>
+		<td>&#x1d27; - <a href="/info/unicode/char/1d27/index.htm">GREEK LETTER SMALL CAPITAL LAMDA (U+1D27)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x0059; - <a href="/info/unicode/char/0059/index.htm">LATIN CAPITAL LETTER Y (U+0059)</a></td>
+		<td>&#x2144; - <a href="/info/unicode/char/2144/index.htm">TURNED SANS-SERIF CAPITAL Y (U+2144)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x005b; - <a href="/info/unicode/char/005b/index.htm">LEFT SQUARE BRACKET (U+005B)</a></td>
+		<td>&#x005d; - <a href="/info/unicode/char/005d/index.htm">RIGHT SQUARE BRACKET (U+005D)</a></td>
+	</tr>
+	<tr>
+		<td>&#x005f; - <a href="/info/unicode/char/005f/index.htm">LOW LINE (U+005F)</a></td>
+
+		<td>&#x203e; - <a href="/info/unicode/char/203e/index.htm">OVERLINE (U+203E)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0061; - <a href="/info/unicode/char/0061/index.htm">LATIN SMALL LETTER A (U+0061)</a></td>
+		<td>&#x0250; - <a href="/info/unicode/char/0250/index.htm">LATIN SMALL LETTER TURNED A (U+0250)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x0062; - <a href="/info/unicode/char/0062/index.htm">LATIN SMALL LETTER B (U+0062)</a></td>
+		<td>&#x0071; - <a href="/info/unicode/char/0071/index.htm">LATIN SMALL LETTER Q (U+0071)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x0063; - <a href="/info/unicode/char/0063/index.htm">LATIN SMALL LETTER C (U+0063)</a></td>
+		<td>&#x0254; - <a href="/info/unicode/char/0254/index.htm">LATIN SMALL LETTER OPEN O (U+0254)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0064; - <a href="/info/unicode/char/0064/index.htm">LATIN SMALL LETTER D (U+0064)</a></td>
+
+		<td>&#x0070; - <a href="/info/unicode/char/0070/index.htm">LATIN SMALL LETTER P (U+0070)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0065; - <a href="/info/unicode/char/0065/index.htm">LATIN SMALL LETTER E (U+0065)</a></td>
+		<td>&#x01dd; - <a href="/info/unicode/char/01dd/index.htm">LATIN SMALL LETTER TURNED E (U+01DD)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x0066; - <a href="/info/unicode/char/0066/index.htm">LATIN SMALL LETTER F (U+0066)</a></td>
+		<td>&#x025f; - <a href="/info/unicode/char/025f/index.htm">LATIN SMALL LETTER DOTLESS J WITH STROKE (U+025F)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x0067; - <a href="/info/unicode/char/0067/index.htm">LATIN SMALL LETTER G (U+0067)</a></td>
+		<td>&#x0183; - <a href="/info/unicode/char/0183/index.htm">LATIN SMALL LETTER B WITH TOPBAR (U+0183)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0068; - <a href="/info/unicode/char/0068/index.htm">LATIN SMALL LETTER H (U+0068)</a></td>
+
+		<td>&#x0265; - <a href="/info/unicode/char/0265/index.htm">LATIN SMALL LETTER TURNED H (U+0265)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0069; - <a href="/info/unicode/char/0069/index.htm">LATIN SMALL LETTER I (U+0069)</a></td>
+		<td>&#x0131; - <a href="/info/unicode/char/0131/index.htm">LATIN SMALL LETTER DOTLESS I (U+0131)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x006a; - <a href="/info/unicode/char/006a/index.htm">LATIN SMALL LETTER J (U+006A)</a></td>
+		<td>&#x027e; - <a href="/info/unicode/char/027e/index.htm">LATIN SMALL LETTER R WITH FISHHOOK (U+027E)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x006b; - <a href="/info/unicode/char/006b/index.htm">LATIN SMALL LETTER K (U+006B)</a></td>
+		<td>&#x029e; - <a href="/info/unicode/char/029e/index.htm">LATIN SMALL LETTER TURNED K (U+029E)</a></td>
+	</tr>
+	<tr>
+		<td>&#x006c; - <a href="/info/unicode/char/006c/index.htm">LATIN SMALL LETTER L (U+006C)</a></td>
+
+		<td>&#x0283; - <a href="/info/unicode/char/0283/index.htm">LATIN SMALL LETTER ESH (U+0283)</a></td>
+	</tr>
+	<tr>
+		<td>&#x006d; - <a href="/info/unicode/char/006d/index.htm">LATIN SMALL LETTER M (U+006D)</a></td>
+		<td>&#x026f; - <a href="/info/unicode/char/026f/index.htm">LATIN SMALL LETTER TURNED M (U+026F)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x006e; - <a href="/info/unicode/char/006e/index.htm">LATIN SMALL LETTER N (U+006E)</a></td>
+		<td>&#x0075; - <a href="/info/unicode/char/0075/index.htm">LATIN SMALL LETTER U (U+0075)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x0072; - <a href="/info/unicode/char/0072/index.htm">LATIN SMALL LETTER R (U+0072)</a></td>
+		<td>&#x0279; - <a href="/info/unicode/char/0279/index.htm">LATIN SMALL LETTER TURNED R (U+0279)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0074; - <a href="/info/unicode/char/0074/index.htm">LATIN SMALL LETTER T (U+0074)</a></td>
+
+		<td>&#x0287; - <a href="/info/unicode/char/0287/index.htm">LATIN SMALL LETTER TURNED T (U+0287)</a></td>
+	</tr>
+	<tr>
+		<td>&#x0076; - <a href="/info/unicode/char/0076/index.htm">LATIN SMALL LETTER V (U+0076)</a></td>
+		<td>&#x028c; - <a href="/info/unicode/char/028c/index.htm">LATIN SMALL LETTER TURNED V (U+028C)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x0077; - <a href="/info/unicode/char/0077/index.htm">LATIN SMALL LETTER W (U+0077)</a></td>
+		<td>&#x028d; - <a href="/info/unicode/char/028d/index.htm">LATIN SMALL LETTER TURNED W (U+028D)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x0079; - <a href="/info/unicode/char/0079/index.htm">LATIN SMALL LETTER Y (U+0079)</a></td>
+		<td>&#x028e; - <a href="/info/unicode/char/028e/index.htm">LATIN SMALL LETTER TURNED Y (U+028E)</a></td>
+	</tr>
+	<tr>
+		<td>&#x007b; - <a href="/info/unicode/char/007b/index.htm">LEFT CURLY BRACKET (U+007B)</a></td>
+
+		<td>&#x007d; - <a href="/info/unicode/char/007d/index.htm">RIGHT CURLY BRACKET (U+007D)</a></td>
+	</tr>
+	<tr>
+		<td>&#x203f; - <a href="/info/unicode/char/203f/index.htm">UNDERTIE (U+203F)</a></td>
+		<td>&#x2040; - <a href="/info/unicode/char/2040/index.htm">CHARACTER TIE (U+2040)</a></td>
+
+	</tr>
+	<tr>
+		<td>&#x2045; - <a href="/info/unicode/char/2045/index.htm">LEFT SQUARE BRACKET WITH QUILL (U+2045)</a></td>
+		<td>&#x2046; - <a href="/info/unicode/char/2046/index.htm">RIGHT SQUARE BRACKET WITH QUILL (U+2046)</a></td>
+	</tr>
+	<tr>
+
+		<td>&#x2234; - <a href="/info/unicode/char/2234/index.htm">THEREFORE (U+2234)</a></td>
+		<td>&#x2235; - <a href="/info/unicode/char/2235/index.htm">BECAUSE (U+2235)</a></td>
+	</tr>
+
+</table>

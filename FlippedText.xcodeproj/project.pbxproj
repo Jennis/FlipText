@@ -1,0 +1,301 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5F60F73014AA3B3100A14FFA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F60F72F14AA3B3100A14FFA /* UIKit.framework */; };
+		5F60F73214AA3B3100A14FFA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F60F73114AA3B3100A14FFA /* Foundation.framework */; };
+		5F60F73414AA3B3100A14FFA /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F60F73314AA3B3100A14FFA /* CoreGraphics.framework */; };
+		5F60F73A14AA3B3100A14FFA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5F60F73814AA3B3100A14FFA /* InfoPlist.strings */; };
+		5F60F73C14AA3B3100A14FFA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F60F73B14AA3B3100A14FFA /* main.m */; };
+		5F60F74014AA3B3100A14FFA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F60F73F14AA3B3100A14FFA /* AppDelegate.m */; };
+		5F60F74814AA3E0600A14FFA /* FlippedTextModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F60F74714AA3E0600A14FFA /* FlippedTextModel.m */; };
+		5F60F74B14AA45FE00A14FFA /* GDataXMLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F60F74A14AA45FE00A14FFA /* GDataXMLNode.m */; };
+		5F60F74E14AA469600A14FFA /* flipMap.xml in Resources */ = {isa = PBXBuildFile; fileRef = 5F60F74D14AA469600A14FFA /* flipMap.xml */; };
+		5F60F76D14AA750600A14FFA /* TextController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F60F76B14AA750600A14FFA /* TextController.m */; };
+		5F60F76E14AA750600A14FFA /* TextController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F60F76C14AA750600A14FFA /* TextController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5F60F72B14AA3B3100A14FFA /* FlippedText.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlippedText.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F60F72F14AA3B3100A14FFA /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		5F60F73114AA3B3100A14FFA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		5F60F73314AA3B3100A14FFA /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		5F60F73714AA3B3100A14FFA /* FlippedText-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FlippedText-Info.plist"; sourceTree = "<group>"; };
+		5F60F73914AA3B3100A14FFA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5F60F73B14AA3B3100A14FFA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5F60F73D14AA3B3100A14FFA /* FlippedText-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FlippedText-Prefix.pch"; sourceTree = "<group>"; };
+		5F60F73E14AA3B3100A14FFA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		5F60F73F14AA3B3100A14FFA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		5F60F74614AA3E0600A14FFA /* FlippedTextModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlippedTextModel.h; sourceTree = "<group>"; };
+		5F60F74714AA3E0600A14FFA /* FlippedTextModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlippedTextModel.m; sourceTree = "<group>"; };
+		5F60F74914AA45FE00A14FFA /* GDataXMLNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GDataXMLNode.h; sourceTree = "<group>"; };
+		5F60F74A14AA45FE00A14FFA /* GDataXMLNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GDataXMLNode.m; sourceTree = "<group>"; };
+		5F60F74D14AA469600A14FFA /* flipMap.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = flipMap.xml; sourceTree = "<group>"; };
+		5F60F76A14AA750600A14FFA /* TextController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextController.h; sourceTree = "<group>"; };
+		5F60F76B14AA750600A14FFA /* TextController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextController.m; sourceTree = "<group>"; };
+		5F60F76C14AA750600A14FFA /* TextController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TextController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5F60F72814AA3B3100A14FFA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F60F73014AA3B3100A14FFA /* UIKit.framework in Frameworks */,
+				5F60F73214AA3B3100A14FFA /* Foundation.framework in Frameworks */,
+				5F60F73414AA3B3100A14FFA /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5F60F72014AA3B3100A14FFA = {
+			isa = PBXGroup;
+			children = (
+				5F60F74C14AA460500A14FFA /* GDataXML */,
+				5F60F73514AA3B3100A14FFA /* FlippedText */,
+				5F60F72E14AA3B3100A14FFA /* Frameworks */,
+				5F60F72C14AA3B3100A14FFA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5F60F72C14AA3B3100A14FFA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5F60F72B14AA3B3100A14FFA /* FlippedText.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5F60F72E14AA3B3100A14FFA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5F60F72F14AA3B3100A14FFA /* UIKit.framework */,
+				5F60F73114AA3B3100A14FFA /* Foundation.framework */,
+				5F60F73314AA3B3100A14FFA /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5F60F73514AA3B3100A14FFA /* FlippedText */ = {
+			isa = PBXGroup;
+			children = (
+				5F60F74D14AA469600A14FFA /* flipMap.xml */,
+				5F60F74614AA3E0600A14FFA /* FlippedTextModel.h */,
+				5F60F74714AA3E0600A14FFA /* FlippedTextModel.m */,
+				5F60F73E14AA3B3100A14FFA /* AppDelegate.h */,
+				5F60F73F14AA3B3100A14FFA /* AppDelegate.m */,
+				5F60F76A14AA750600A14FFA /* TextController.h */,
+				5F60F76B14AA750600A14FFA /* TextController.m */,
+				5F60F76C14AA750600A14FFA /* TextController.xib */,
+				5F60F73614AA3B3100A14FFA /* Supporting Files */,
+			);
+			path = FlippedText;
+			sourceTree = "<group>";
+		};
+		5F60F73614AA3B3100A14FFA /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5F60F73714AA3B3100A14FFA /* FlippedText-Info.plist */,
+				5F60F73814AA3B3100A14FFA /* InfoPlist.strings */,
+				5F60F73B14AA3B3100A14FFA /* main.m */,
+				5F60F73D14AA3B3100A14FFA /* FlippedText-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5F60F74C14AA460500A14FFA /* GDataXML */ = {
+			isa = PBXGroup;
+			children = (
+				5F60F74914AA45FE00A14FFA /* GDataXMLNode.h */,
+				5F60F74A14AA45FE00A14FFA /* GDataXMLNode.m */,
+			);
+			name = GDataXML;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5F60F72A14AA3B3100A14FFA /* FlippedText */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5F60F74314AA3B3100A14FFA /* Build configuration list for PBXNativeTarget "FlippedText" */;
+			buildPhases = (
+				5F60F72714AA3B3100A14FFA /* Sources */,
+				5F60F72814AA3B3100A14FFA /* Frameworks */,
+				5F60F72914AA3B3100A14FFA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FlippedText;
+			productName = FlippedText;
+			productReference = 5F60F72B14AA3B3100A14FFA /* FlippedText.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5F60F72214AA3B3100A14FFA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 5F60F72514AA3B3100A14FFA /* Build configuration list for PBXProject "FlippedText" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5F60F72014AA3B3100A14FFA;
+			productRefGroup = 5F60F72C14AA3B3100A14FFA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5F60F72A14AA3B3100A14FFA /* FlippedText */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5F60F72914AA3B3100A14FFA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F60F73A14AA3B3100A14FFA /* InfoPlist.strings in Resources */,
+				5F60F74E14AA469600A14FFA /* flipMap.xml in Resources */,
+				5F60F76E14AA750600A14FFA /* TextController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5F60F72714AA3B3100A14FFA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F60F73C14AA3B3100A14FFA /* main.m in Sources */,
+				5F60F74014AA3B3100A14FFA /* AppDelegate.m in Sources */,
+				5F60F74814AA3E0600A14FFA /* FlippedTextModel.m in Sources */,
+				5F60F74B14AA45FE00A14FFA /* GDataXMLNode.m in Sources */,
+				5F60F76D14AA750600A14FFA /* TextController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5F60F73814AA3B3100A14FFA /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5F60F73914AA3B3100A14FFA /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5F60F74114AA3B3100A14FFA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = /usr/include/libxml2;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_LDFLAGS = "-lxml2";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		5F60F74214AA3B3100A14FFA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = /usr/include/libxml2;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				OTHER_LDFLAGS = "-lxml2";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5F60F74414AA3B3100A14FFA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FlippedText/FlippedText-Prefix.pch";
+				INFOPLIST_FILE = "FlippedText/FlippedText-Info.plist";
+				OTHER_LDFLAGS = "-lxml2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		5F60F74514AA3B3100A14FFA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FlippedText/FlippedText-Prefix.pch";
+				INFOPLIST_FILE = "FlippedText/FlippedText-Info.plist";
+				OTHER_LDFLAGS = "-lxml2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5F60F72514AA3B3100A14FFA /* Build configuration list for PBXProject "FlippedText" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F60F74114AA3B3100A14FFA /* Debug */,
+				5F60F74214AA3B3100A14FFA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5F60F74314AA3B3100A14FFA /* Build configuration list for PBXNativeTarget "FlippedText" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F60F74414AA3B3100A14FFA /* Debug */,
+				5F60F74514AA3B3100A14FFA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5F60F72214AA3B3100A14FFA /* Project object */;
+}
